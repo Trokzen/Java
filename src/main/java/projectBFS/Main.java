@@ -9,6 +9,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        int a=0;
         AhoCorasick2 ahoCorasick2 = new AhoCorasick2(1000);
         ahoCorasick2.Menu();
     }
